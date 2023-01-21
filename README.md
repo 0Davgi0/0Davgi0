@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @0Davgi0
-- 👀 I’m interested in electronics and technology
-- 🌱 I’m currently learning html, css, C, Java, STM32 and VHDL
-- 💞️ I’m looking to collaborate on nothing currently as I already have a lot of things to do
-- 📫 How to reach me, by mail at <a href="mailto:contact@davidgirou.fr">contact@davidgirou.fr</a>
-
-<!---
-0Davgi0/0Davgi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @0Davgi0 and I am an aspiring engineer in the field of IoT. 
+- 👀 I have a passion for electronics and technology, and enjoy experimenting with new ideas and projects. 
+- 💻 I have a small website ([Cogilabs.eu](https://cogilabs.eu/)) where I share some of my personal projects and experiences.
+- 📫 How to reach me, by mail at <a href="mailto:contact@davidgirou.fr">contact@davidgirou.fr</a>, or directly via the contact form on my website.
